@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/hongweiyi/archetype-golang-docker",
+	"GoVersion": "go1.5.1",
+	"Deps": []
+}
